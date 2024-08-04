@@ -84,9 +84,26 @@ with main_tab:
     
     '''
 
+with credits_tab:
+    '''
+    Proje aktif olarak Buğra IŞIKDEMİR tarafından geliştirilmektedir.
+    
+    Yardımları için
+    Rengin MAKTAV
+    Ömer Faruk VURAN
+    Eda DAĞLAROĞLU'na
+    sonsuz teşekürler 🙏
+
+    '''
+
+
 with pathway_tab:
     '''
     "Daha fazla öner" butonu.
-    
+
     Künye eklenecek.
+    
+    Bellek yetersiz oldugundan daha genis bellekli bir sunucuya tasinmasi gerekiyor.
+    
+    Yükleme ekranı eklenecek.
     '''
